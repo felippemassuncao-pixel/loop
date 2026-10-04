@@ -1,5 +1,5 @@
 re = []
-for i in range(4):
+for i in range(50):
   nome = input("Qual seu nome ?")
   idade = input("Qual sua idade?")
   print("para avaliar o atendimento aperte: 1.exelente.   2. bom.   3. ruim.")
